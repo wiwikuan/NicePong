@@ -1,5 +1,7 @@
 # 好乓 NicePong - 聽聲音就可以玩的乒乓球遊戲！
 
+線上直接玩：[https://nicechord.com/pong](https://nicechord.com/pong)
+
 ## 按鍵
 
 玩家 1：`z`、`x`、`c`
